@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# trained models
+model.pkl
+pipeline.pkl
+
+# generated files
+output.csv
+input.csv
+input.copy.csv
